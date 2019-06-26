@@ -4,12 +4,12 @@
 
 # Site
 title: 灌之的博客
-subtitle:
-description:
-keywords:
+subtitle: 浊兮、清兮，皆灌之
+description: 何以以一贯之
+keywords: 没什么关键词
 author: 灌之
-language:
-timezone:
+language: zh
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -38,6 +38,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+auto_spacing: true
 highlight:
   enable: true
   line_number: true
