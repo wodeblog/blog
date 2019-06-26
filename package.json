@@ -1,0 +1,11 @@
+{
+  "name": "hexo-site",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd src && hexo generate"
+  },
+  "dependencies": {
+   
+  }
+}
